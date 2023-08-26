@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Agriculture consumer Economics, concentration Public Policy, University of Illinois at Ubrana-Champaign
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2021-March 2022: Intern
+  * Guilor Architects p.c   
+  * Communicated with 10+ customers to follow up on projects, information needed, and set up in-person appointments
+  * Implemented designing and marketing skills through crafting holiday postcards with Adobe PS and maintaining communication between 20+ clients and the firm
+  * Organized and archived multiple office files to ensure the records are classified and projects are executed in a timely manner
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* September 2022-May 2023: Consultant
+  * Illinois Business Consulting
+  * Provided consulting service and developed strategic planning for a Fortune 100, one of the top and largest agriculture equipment company
+  * Conducted detailed research and identified innovation opportunity for the agricultural company to adapt Metaverse
+  * Engaged in the weekly workstream, prepared meeting materials and lead open floor discussions during meetings to communicate with 9 teammates and approach the project’s goal
   
+* May 2023-Present
+  * Service Task Force Director
+  * Connected with organization and developed event calendar and detailed flow of activities
+  * Engaged and leaded committee with 6 members and approach the semester’s service requirements and goals for the fraternity chapter
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Excel (Basic)
+* Adobe
+  * Photoshop
+  * AfterEffect
+* Python (Basic)
+* Java (Intermediate)
+
+Language
+======
+* English
+* Chinese
+* Spanish
 
 Publications
 ======
